@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: Languages
+title: "Languages"
 permalink: /languages/
+author_profile: true
 redirect_from:
   - /languages
 ---
-![output-indo-aryan.jpg](..%2Fimages%2Foutput-indo-aryan.jpg)
+
+{% include base_path %}
+<img src="../images/output-indo-aryan.jpg"/>
 
 Do you know? According to Indian Census 2011,
 ===

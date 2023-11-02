@@ -6,9 +6,10 @@ author_profile: true
 redirect_from:
   - /about
     - /about.html
-{% include base_path %}
 ---
 
+{% include base_path %}
+<img src="../images/output-indo-aryan.jpg"/>
 
 Bharat GPTs: India’s only multilingual Large Language Model
 ========

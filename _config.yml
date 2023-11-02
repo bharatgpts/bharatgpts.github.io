@@ -79,7 +79,7 @@ analytics:
 
 author:
   name             : "Bharat GPTs"
-  avatar: "images/bharat-gpt-logo.jpeg"
+  avatar: "../images/bharat-gpt-logo.jpeg"
   bio              : "India's first Multilingual Large Language Model"
   location         : "Kolkata, India"
   uri              :
