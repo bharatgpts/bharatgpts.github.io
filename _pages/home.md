@@ -3,13 +3,8 @@ permalink: /
 title: "Bharat GPTs: India's first multilingual LLM"
 excerpt: "Bharat GPTs AI Service"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-output: 
-  html_document:
-    css: home.css
 ---
+![home.jpg](..%2Fimages%2Fhome.jpg)
 
 Bharat GPTs: India’s only multilingual Large Language Model 🇮🇳
 ========
