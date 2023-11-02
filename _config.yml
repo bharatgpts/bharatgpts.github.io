@@ -159,7 +159,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - _pages/markdown.md
   - _pages/projects.html
 keep_files:
   - .git
