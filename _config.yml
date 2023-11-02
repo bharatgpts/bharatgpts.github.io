@@ -14,7 +14,7 @@ description              : &description "India's first multilingual LLM, Made in
 url: https://bharatgpts.com # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               :
-teaser: images/bharat-gpt-logo.jpeg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser: <img src="../images/bharat-gpt-logo.jpeg"/> # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -79,7 +79,7 @@ analytics:
 
 author:
   name             : "Bharat GPTs"
-  avatar           : "images/bharat-gpt-logo.jpeg"
+  avatar           : <img src="images/bharat-gpt-logo.jpeg"/>
   bio              : "India's first Multilingual Large Language Model"
   location         : "Kolkata, India"
   uri              :
