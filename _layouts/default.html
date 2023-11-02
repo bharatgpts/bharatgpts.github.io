@@ -1,22 +1,76 @@
 ---
 layout: compress
 ---
-
-{% include base_path %}
-
-<!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
+    <!-- meta info -->
+    <meta name="author" content="Bharat GPTs AI">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- add a favicon for my website -->
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
   <body>
 
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
     {{ content }}
+
+    <style>
+      nav ul {
+        display: flex;
+        list-style: none;
+      }
+      nav ul li {
+        margin-right: 100px;
+      }
+      nav ul li a {
+        text-decoration: underline overline dotted red;;
+        color: green;
+      }
+      nav ul li a:hover {
+        text-decoration: underline;
+      }
+      .active {
+        text-decoration: underline;
+      }
+
+head * {
+    display: inline;
+}
+
+head li {
+    margin: 20px;
+}
+
+head li a {
+    color: black;
+    text-decoration: none;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+  font-family: "Lucida Console", "Courier New";
+}
+
+    </style>
 
     <div class="page__footer">
       <footer>

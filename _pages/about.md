@@ -1,27 +1,36 @@
 ---
+layout: archive
 permalink: /
-title: "Bharat GPTs: India's first multilingual LLM"
-excerpt: "Bharat GPTs AI Service"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-<img src="../images/home.jpg"/>
+{% include responsive_navbar.html %}
 
-Bharat GPTs: India’s only multilingual Large Language Model 🇮🇳
+Bharat GPTs: India’s 1st Multilingual Large Language Model  (LLM) 🇮🇳
 ========
 
-* **Assamese_GPT, Bangla-GPT, Hindi-GPT, Konkani-GPT, Maithili-GPT, Odia-GPT, Sanskrit-GPT**
-* Adding more languages soon!
+## Made, and Trained in India. Launching Soon!
 
-## Generative AI technology for multilingual India.
+<style>
+p{
+  font-family: "Lucida Console", "Courier New";
+  font-size: 25px;
+}
+</style>
 
-### Made, and Trained in India. Launching Soon!
+<p>
+Generative AI technology for multilingual India.
 
-German Engineering in India
-===
+
+
+Assamese-GPT, Bangla-GPT, Hindi-GPT, Konkani-GPT, Maithili-GPT, Odia-GPT, Sanskrit-GPT, and mBharat-GPT.
+<br/>
+Adding more languages and chat-tuned models very soon!
+<br/>
+We are soon releasing our research publication.
+</p>
+
+## German Engineering in India
 
 * Interested in learning more about how our mission can enable a billion people to leverage Gen AI language technology
   in their native languages and empower the democracy?

@@ -3,11 +3,9 @@ layout: archive
 title: "Languages"
 permalink: /languages/
 author_profile: true
-redirect_from:
-  - /languages
 ---
 
-{% include base_path %}
+{% include responsive_navbar.html %}
 <img src="../images/output-indo-aryan.jpg"/>
 
 Do you know? According to Indian Census 2011,
@@ -27,3 +25,5 @@ Do you know? According to Indian Census 2011,
 
 ## Will be covering more, support us in our journey 🙏
 ### We want to preserve the linguistic diversity of India and every other parts of the world even in the age of massive globalization.
+
+![bharat-gpt-logo.jpeg](..%2Fimages%2Fbharat-gpt-logo.jpeg)

@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Home
+title: "India's Chat GPT"
 permalink: /indiachatgpt/
 author_profile: true
-redirect_from:
-  - /about
-    - /about.html
 ---
 
+{% include responsive_navbar.html %}
 <img src="../images/output-indo-aryan.jpg"/>
 
 Bharat GPTs: India’s only multilingual Large Language Model
@@ -35,3 +33,7 @@ German Engineering in India
 * Interested in learning more about how our mission can enable billion Indians to leverage Gen AI language technology in their native languages and empower the democracy? 
 
 * Contact us today to schedule a consultation.
+
+* **Email: [info@bharatgpts.com]()**
+
+![bharat-gpt-logo.jpeg](..%2Fimages%2Fbharat-gpt-logo.jpeg)

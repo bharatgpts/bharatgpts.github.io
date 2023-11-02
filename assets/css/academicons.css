@@ -265,7 +265,7 @@
 .ai.fa-pull-right {
   margin-left: .3em;
 }
-/*  
+/*
  *  Repeat of the FontAwesome style classes to prevent override if academicons.css
  *  is called after font-awesome.css.
  */
@@ -325,3 +325,35 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 25px 0 black;
+}
+
+header * {
+    display: inline;
+}
+
+header li {
+    margin: 40px;
+}
+
+header li a {
+    color: black;
+    text-decoration: none;
+    text-color: white;
+}
+body {
+  background-image: url('https://www.freepik.com/free-ai-image/n-server-room-you-ll-notice-green-lights-signaling-energyefficient-operations_77714031.htm#query=datacenter&position=29&from_view=keyword&track=sph');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+

@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bharat GPTs AI Services"
+title: "Bharat GPTs AI"
 title_separator          : "-"
-name                     : &name "Bharat GPTs"
+name: &name "Bharat GPTs AI"
 description              : &description "India's first multilingual LLM, Made in India, and trained in India"
 url: https://bharatgpts.com # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
 # Team names, titles and social links
 people:
 - name: Mitodru Niyogi
-  pic: "images/mitodru.jpeg"
+  pic: "../images/mitodru.jpeg"
   position: Founder and CEO
   social:
     - title: home
@@ -115,7 +115,7 @@ people:
       url: #
 
 - name: Prof. Arnab Bhhattacharya
-  pic: "images/arnab6.jpg"
+  pic: "../images/arnab6.jpg"
   position: Mentor, BharatGPTs and Professor at Faculty of Computer Science & Engineering, IIT Kanpur
   social:
     - title: home
@@ -159,13 +159,18 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - _pages/projects.html
 keep_files:
   - .git
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+
+header_pages:
+  - about.md
+  - indiachatgpt
+  - languages
+  - team
 
 # Conversion
 markdown: kramdown
@@ -196,6 +201,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
 
 # Sass/SCSS
 sass:
