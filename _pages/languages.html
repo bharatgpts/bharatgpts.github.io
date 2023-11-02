@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "India's Languages"
 permalink: /languages/
 author_profile: true
@@ -7,3 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.languages %}
+  {% include archive-single.html %}
+{% endfor %}
