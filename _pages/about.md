@@ -3,6 +3,7 @@ layout: archive
 permalink: /
 author_profile: true
 ---
+{% include base_path %}
 
 {% include responsive_navbar.html %}
 
