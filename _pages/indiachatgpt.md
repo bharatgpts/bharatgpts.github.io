@@ -8,7 +8,6 @@ redirect_from:
     - /about.html
 ---
 
-{% include base_path %}
 <img src="../images/output-indo-aryan.jpg"/>
 
 Bharat GPTs: India’s only multilingual Large Language Model
