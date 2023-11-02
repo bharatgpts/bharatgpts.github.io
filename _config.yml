@@ -79,7 +79,7 @@ analytics:
 
 author:
   name             : "Bharat GPTs"
-  avatar           : "bharat-gpt-logo.jpeg"
+  avatar: "images/bharat-gpt-logo.jpeg"
   bio              : "India's first Multilingual Large Language Model"
   location         : "Kolkata, India"
   uri              :
@@ -102,7 +102,7 @@ author:
 # Team names, titles and social links
 people:
 - name: Mitodru Niyogi
-  pic: "mitodru.jpeg"
+  pic: "images/mitodru.jpeg"
   position: Founder and CEO
   social:
     - title: home
@@ -115,7 +115,7 @@ people:
       url: #
 
 - name: Prof. Arnab Bhhattacharya
-  pic: "arnab6.jpg"
+  pic: "images/arnab6.jpg"
   position: Mentor, BharatGPTs and Professor at Faculty of Computer Science & Engineering, IIT Kanpur
   social:
     - title: home

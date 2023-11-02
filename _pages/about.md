@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![home.jpg](..%2Fimages%2Fhome.jpg)
+<img src="/home/mitodru/Documents/bharatgpts.github.io/images/home.jpg"/>
 
 Bharat GPTs: India’s only multilingual Large Language Model 🇮🇳
 ========

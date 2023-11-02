@@ -4,7 +4,8 @@ title: Home
 permalink: /indiachatgpt/
 author_profile: true
 redirect_from:
-  - /home
+  - /about
+    - /about.html
 {% include base_path %}
 ---
 
