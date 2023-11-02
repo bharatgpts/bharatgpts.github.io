@@ -10,6 +10,7 @@ output:
   html_document:
     css: home.css
 ---
+![home.jpg](..%2Fimages%2Fhome.jpg)
 
 Bharat GPTs: India’s only multilingual Large Language Model 🇮🇳
 ========
