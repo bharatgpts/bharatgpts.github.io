@@ -1,11 +1,12 @@
 ---
 layout: archive
+title: Bharat GPTs AI
 permalink: /
 author_profile: true
 ---
 {% include base_path %}
-
 {% include responsive_navbar.html %}
+
 
 Bharat GPTs: India’s 1st Multilingual Large Language Model  (LLM) 🇮🇳
 ========
@@ -39,3 +40,6 @@ We are soon releasing our research publication.
 * **Contact us today to schedule a consultation.**
 
 * **Email: [info@bharatgpts.com]()**
+*
+
+![](../images/bharat-gpt-logo.jpeg)
