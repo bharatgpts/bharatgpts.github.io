@@ -15,13 +15,13 @@
 # Site Settings
 encoding: "utf-8"
 title: "Bharat GPTs AI"
-title_separator: "-"
+#title_separator: "-"
 name: &name "Bharat GPTs AI"
-description: &description "India's first multilingual LLM, Made in India, and trained in India"
+#description: &description "India's first multilingual LLM, Made in India, and trained in India"
 url: "https://bharatgpts.com" # the base hostname & protocol for your site e.g.
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "dopu2k16/dopu2k16.github.io"
-teaser: "bharat-gpt-logo.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+#repository: "bharatgpts/bharatgpts.github.io"
+teaser: "images/bharat-gpt-logo.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
 future: true
