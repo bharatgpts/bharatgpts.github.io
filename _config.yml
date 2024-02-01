@@ -14,14 +14,14 @@
 
 # Site Settings
 encoding: "utf-8"
-title: "Bharat GPTs AI"
+title: "Gyan AI R&D"
 #title_separator: "-"
-name: &name "Bharat GPTs AI"
-#description: &description "India's first multilingual LLM, Made in India, and trained in India"
+name: &name "Gyan AI R&D"
+#description: &description "World's first novel efficient small pretrained powerful multilingual generative language models, Made in India, and trained in India"
 url: "https://bharatgpts.com" # the base hostname & protocol for your site e.g.
 baseurl: "" # the subpath of your site, e.g. "/blog"
 #repository: "bharatgpts/bharatgpts.github.io"
-teaser: "images/bharat-gpt-logo.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser: "images/gyanai-logo.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
 future: true
@@ -74,9 +74,9 @@ analytics:
     tracking_id:
 
 author:
-  name: "Bharat GPTs"
-  avatar: "bharat-gpt-logo.jpeg"
-  bio: "India's first Multilingual Large Language Model"
+  name: "Gyan AI R&D"
+  avatar: "gyanai-logo.jpeg"
+  bio: "World's first smallest Multilingual Novel Effective Pretrained and Instruction-Tuned Generative Foundation Language Models"
   location: "Kolkata, India"
   uri:
   flickr:
@@ -132,7 +132,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 header_pages:
   - about
-  - indiachatgpt
+  - paramanu
   - languages
   - team
 

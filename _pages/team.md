@@ -10,6 +10,11 @@ author_profile: true
 
 * Interested in learning more about how our mission can enable billion Indians to leverage Gen AI language technology in their native languages and empower the democracy? 
 
+* Interested in learning how we can help you to leverage GenAI to grow your business? Just write to us!
+
+* We also offer novel smaller, efficient, powerful, faster domain adaptive sector-agnostic foundation generative language models & multimodal AI models as SaaS.
+
+* Our models don’t even need GPU to run inference.
 
 
 
@@ -21,4 +26,4 @@ author_profile: true
 
 
 
-![bharat-gpt-logo.jpeg](..%2Fimages%2Fbharat-gpt-logo.jpeg)
+![gyanai-logo.jpeg](..%2Fimages%2Fgyanai-logo.jpeg)

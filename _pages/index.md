@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Bharat GPTs AI
+title: Gyan AI R&D
 permalink: /
 author_profile: true
 ---
@@ -8,10 +8,11 @@ author_profile: true
 {% include responsive_navbar.html %}
 
 
-Bharat GPTs: India’s 1st Multilingual Large Language Model  (LLM) 🇮🇳
+Gyan AI's Paramanu: A Family of Novel Efficient Indic Generative Foundation Language Models 🇮🇳
 ========
 
-## Made, and Trained in India. Launching Soon!
+## Made, and Trained in India. 
+
 
 <style>
 p{
@@ -21,25 +22,23 @@ p{
 </style>
 
 <p>
-Generative AI technology for multilingual India.
+Generative AI technology for multilingual India. 
+
+We also offer novel smaller, efficient, powerful, faster domain adaptive sector-agnostic foundation language models & multimodal AI models as SaaS for India and beyond. Our models don’t even need GPU to run inference.
 
 
-
-Assamese-GPT, Bangla-GPT, Hindi-GPT, Konkani-GPT, Maithili-GPT, Odia-GPT, Sanskrit-GPT, and mBharat-GPT.
-<br/>
-Adding more languages and chat-tuned models very soon!
-<br/>
-We are soon releasing our research publication.
+We have released our research publication, [https://arxiv.org/abs/2401.18034](https://arxiv.org/abs/2401.18034) .
 </p>
 
 ## German Engineering in India
 
-* Interested in learning more about how our mission can enable a billion people to leverage Gen AI language technology
-  in their native languages and empower the democracy?
+* Interested in learning how we can help you to leverage GenAI technology to grow your business? Just write to us!
+* We also offer novel smaller, efficient, powerful, faster domain adaptive sector-agnostic foundation generative language models & multimodal AI models as SaaS.
+* Our models don’t even need GPU to run inference.
 
 * **Contact us today to schedule a consultation.**
 
 * **Email: [info@bharatgpts.com]()**
 *
 
-![](../images/bharat-gpt-logo.jpeg)
+![](../images/gyanai-logo.jpeg)

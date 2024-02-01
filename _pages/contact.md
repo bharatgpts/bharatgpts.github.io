@@ -8,4 +8,4 @@ author_profile: true
 {% include contact.html %}
 * **Email: [info@bharatgpts.com]()**
 
-![bharat-gpt-logo.jpeg](..%2Fimages%2Fbharat-gpt-logo.jpeg)
+![gyanai-logo.jpeg](..%2Fimages%2Fgyanai-logo.jpeg)
