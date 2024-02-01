@@ -1,7 +1,7 @@
-India's first multilingual Large Language Model (LLM)
+World's first smallest novel powerful Indic Generative Foundation Language Models.
 ===========
 
-<img src="images/bharat-gpt-logo.jpeg"/>
+<img src="images/gyanai-logo.jpeg"/>
 
-Bharat GPTs AI Services
+Gyan AI R&D
 ====
