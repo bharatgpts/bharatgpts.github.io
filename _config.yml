@@ -14,10 +14,10 @@
 
 # Site Settings
 encoding: "utf-8"
-title: "Gyan AI R&D"
+title: "Gyan AI Research"
 #title_separator: "-"
-name: &name "Gyan AI R&D"
-#description: &description "World's first novel efficient small pretrained powerful multilingual generative language models, Made in India, and trained in India"
+name: &name "Gyan AI Research"
+#description: &description "Powerful Indic LLMs, Legal LLM, Math Tutor Gen AI as Service"
 url: "https://bharatgpts.com" # the base hostname & protocol for your site e.g.
 baseurl: "" # the subpath of your site, e.g. "/blog"
 #repository: "bharatgpts/bharatgpts.github.io"
@@ -74,9 +74,9 @@ analytics:
     tracking_id:
 
 author:
-  name: "Gyan AI R&D"
+  name: "Gyan AI Research"
   avatar: "gyanai-logo.jpeg"
-  bio: "World's first smallest Multilingual Novel Effective Pretrained and Instruction-Tuned Generative Foundation Language Models"
+  bio: "AGI: Indic LLMs, Legal LLM, Math Tutor as Service"
   location: "Kolkata, India"
   uri:
   flickr:
@@ -88,8 +88,7 @@ author:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # Postal address (add as many lines as necessary)
 address:
-  - line: Kolkata, West Bengal
-  - line: India
+  - line: Kolkata and Abu Dhabi
 
 # Reading Files
 include:
@@ -133,7 +132,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 header_pages:
   - about
   - paramanu
-  - languages
+  - paramanu-ayn
+  - paramanu-ganita
   - team
 
 # Conversion

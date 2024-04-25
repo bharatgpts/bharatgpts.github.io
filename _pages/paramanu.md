@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "India's Chat GPT"
+title: "India's Multilingual GenAI Language Models 💬 🇮🇳"
 permalink: /paramanu/
 author_profile: true
 ---
