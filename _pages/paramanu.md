@@ -53,14 +53,17 @@ Hindi Evaluation
 | Airavata 7B           | 34.96 | 25.37     | 44.96 |
 | Paramanu-Hindi 367.5M | 38.47 | 37.65     | 41.7  |
 
+
 Zero-shot XNLI and XStoryCloze for Hindi
 ---
+
 | XNLI  | XStoryCloze |
 |-------|-------------|
 | 33.49 | 52.42       |
 
 Tamil Evaluation
 ---
+
 | Model                  | MMLU  | HellaSwag | ARC  |
 |------------------------|-------|-----------|------|
 | Bloom 7B               | 26.6  | 29.4      | 24.2 |
@@ -70,6 +73,7 @@ Tamil Evaluation
 
 Telugu Evaluation
 ---
+
 | Model                 | MMLU  | HellaSwag | ARC  |
 |-----------------------|-------|-----------|------|
 | Bloom 7B              | 26.2  | 29.2      | 24.3 |
