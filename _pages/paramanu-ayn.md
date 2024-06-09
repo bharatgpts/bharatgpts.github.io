@@ -20,10 +20,20 @@ The model has strong legal reasoning, legal judgement explanation, legal clause 
 -------
 
 Evaluation of PARAMANU-AYN by GPT-3.5-Turbo on legal responses!
+---
 
 | Model               | Clarity | Relevance | Completeness | Legal Reasoning |
 |---------------------|---------|-----------|--------------|-----------------|
 | Paramanu-Ayn (8192) | 8       | 8.888     | 8.222        | 8.889           |
+
+Zero-shot evaluation on Judgement Case Prediction Task (PredEx TestSet: ACL' 24 paper)
+---
+
+| Model         | Macro F1   | Accuracy (%) | 
+|---------------|------------|--------------|
+| Gemini Pro    | 0.4908     | 50.81        | 
+| LLaMa-2 7B    | 0.3772     | 50.25        | 
+| Paramanu-Ayn  | **0.5007** | **52**       |
 
 PARAMANU-AYN was featured in a popular data science magazine in India
 [https://analyticsindiamag.com/introducing-paramanu-ayn-indias-first-indigenously-developed-legal-ai/]()
@@ -40,5 +50,4 @@ PARAMANU-AYN was featured in a popular data science magazine in India
 
 * **Email: [info@bharatgpts.com]()**
 *
-
 ![](../images/gyanai-logo.jpeg)

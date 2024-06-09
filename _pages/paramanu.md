@@ -33,6 +33,50 @@ The various results in our research lead to the conclusion that high quality gen
 Our models: **Paramanu-Assamese, Paramanu-Bangla, Paramanu-Hindi, Paramanu-Tamil, Paramanu-Telugu, Paramanu-Konkani-Maithili,
 Paramanu-Odia, Paramanu-Sanskrit, and multilingual mParamanu.**
 
+Bangla Evaluation
+---
+
+| Model                  | MMLU  | HellaSwag | ARC  |
+|------------------------|-------|-----------|------|
+| Bloom 7B               | 28.2  | 32.8      | 29.2 |
+| Bloomz 7B              | 25.9  | 31.5      | 28.2 |
+| Paramanu-Bangla 108.5M | 31.7  | 33.45     | 32.5 |
+
+Hindi Evaluation
+---
+
+| Model                 | MMLU  | HellaSwag | ARC   |
+|-----------------------|-------|-----------|-------|
+| Bloom 7B              | 27.5  | 36.4      | 29.2  |
+| Bloomz 7B             | 25.9  | 34.0      | 28.2  |
+| Open Hathi 7B         | 32.27 | 25.59     | 38.48 |
+| Airavata 7B           | 34.96 | 25.37     | 44.96 |
+| Paramanu-Hindi 367.5M | 38.47 | 37.65     | 41.7  |
+
+Zero-shot XNLI and XStoryCloze for Hindi
+---
+| XNLI  | XStoryCloze |
+|-------|-------------|
+| 33.49 | 52.42       |
+
+Tamil Evaluation
+---
+| Model                  | MMLU  | HellaSwag | ARC  |
+|------------------------|-------|-----------|------|
+| Bloom 7B               | 26.6  | 29.4      | 24.2 |
+| Bloomz 7B              | 26.7  | 29.5      | 25.6 |
+| Paramanu-Tamil 207M    | 30.70 | 32.42     | 33.8 |
+
+
+Telugu Evaluation
+---
+| Model                 | MMLU  | HellaSwag | ARC  |
+|-----------------------|-------|-----------|------|
+| Bloom 7B              | 26.2  | 29.2      | 24.3 |
+| Bloomz 7B             | 25.7  | 30.7      | 25.8 |
+| Paramanu-Telugu 208M  | 30.23 | 32.2      | 32.9 |
+
+
 Generative AI technology for multilingual India and World.
 =====
 
@@ -50,4 +94,4 @@ sector-agnostic AI models?
 
 * **Email: [info@bharatgpts.com]()**
 
-![gyanai-logo.jpeg](..%2Fimages%2Fgyanai-logo.jpeg)
+![](../images/gyanai-logo.jpeg)
