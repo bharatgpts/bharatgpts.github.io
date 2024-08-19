@@ -88,7 +88,7 @@ author:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # Postal address (add as many lines as necessary)
 address:
-  - line: Kolkata and Abu Dhabi
+  - line: Kolkata, India
 
 # Reading Files
 include:
@@ -123,6 +123,7 @@ exclude:
   - _pages/category-archive.html
   - _pages/collection-archive.html
   - _pages/page-archive.html
+  - _pages/team.md
 keep_files:
   - .git
   - .svn
@@ -134,7 +135,6 @@ header_pages:
   - paramanu
   - paramanu-ayn
   - paramanu-ganita
-  - team
 
 # Conversion
 markdown: kramdown
